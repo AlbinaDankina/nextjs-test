@@ -1,0 +1,23 @@
+.user_page {
+  margin: 20px;
+  border: 1px solid darkgray;
+  padding: 1em;
+  width: 280px;
+  border-radius: 1em;
+  box-shadow: 0px 0px 50px -30px gray;
+}
+
+
+.link {
+  text-decoration: none;
+}
+
+.link button {
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+
+.link button:hover:active {
+  transform: scale(.8);
+}
